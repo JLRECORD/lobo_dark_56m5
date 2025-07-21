@@ -1,0 +1,1 @@
+[{"artista":"lobo dark","foto":"https://cdn.jsdelivr.net/gh/JLRECORD/lobo_dark_56m5/bbb.jpg","musica":"https://cdn.jsdelivr.net/gh/JLRECORD/lobo_dark_56m5/bbb.mp3","campo1":"Pop","id":"uC1kt","campo2":"https://jlrecord.github.io/lobo_dark_56m5/bbb.html","publicacion":"bbb"}]
